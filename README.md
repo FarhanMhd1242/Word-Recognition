@@ -18,7 +18,7 @@
    * three
 
 **Instruction to run the project**
- * first download Word_Recognition.zip file and extract it
+ * first clone the project and extract it
  * now you will get the project file of visual studio
  * open it with visual studio.
  * go to debug section and press start without debugging or press Ctrl+F5 to run the project
